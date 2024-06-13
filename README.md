@@ -6,6 +6,8 @@ Linguistics and IT are overlapping areas. Both fields (Linguistics and IT) deal 
 
 I enjoy contributing to new projects and learning new computer technologies. I have already learnt MS SQL and am now developing several projects using it.
 
+
 ## 📌 My projects
+- [WeatherDatabase](http://209.38.230.157:5000/) - Interactive map of Russian weather stations and weather statistics based on data from VNIIGMI-MDC (the site includes a frontend based on JavaScript and a backend based on Flask)
 
 ## 📬 Contacts
