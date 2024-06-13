@@ -11,4 +11,4 @@ I enjoy contributing to new projects and learning new computer technologies. I h
 - [WeatherDatabase](http://209.38.230.157:5000/) - Interactive map of Russian weather stations and weather statistics based on data from VNIIGMI-MDC (the site includes a frontend based on JavaScript and a backend based on Flask)
 
 ## 📬 Contacts
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasikhat.dadaeva@mail.ru)]
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasikhat.dadaeva@mail.ru)
