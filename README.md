@@ -2,7 +2,7 @@
 
 I am Nasikhat Dadaeva, a specialist in the field of linguistics and computer science. 
 
-I have always been interested in combining language and modern technology. The emergence of new LLM models like ChatGPT opened up new horizons for learning for me. The emergence of new LLM models like ChatGPT opened up new horizons for me to study and revealed to me that linguistics and information technology are highly overlapping fields. Both areas deal with syntax, semantics, and instructions, and how people perceive them.
+For a long time I worked as an English teacher and I have always been interested in combining language and modern technology. The emergence of new LLM models like ChatGPT opened up new horizons for learning for me. The emergence of new LLM models like ChatGPT opened up new horizons for me to study and revealed to me that linguistics and information technology are highly overlapping fields. Both areas deal with syntax, semantics, and instructions, and how people perceive them.
 
 I enjoy contributing to new projects and learning new computer technologies. I have already learnt MS SQL and am now developing several projects using it.
 
