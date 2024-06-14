@@ -13,6 +13,6 @@ I enjoy contributing to new projects and learning new computer technologies. I h
 
 ## 📬 Contacts
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasikhat.dadaeva@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](a href="https://t.me/NasikhatDadaeva" rel="nofollow")
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NasikhatDadaeva)
 
 
